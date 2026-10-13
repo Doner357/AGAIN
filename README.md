@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon/AGAIN.svg" width="180" alt="AGAIN">
+  <img src="assets/icon/png/AGAIN-512x512.png" width="180" alt="AGAIN">
 
 # AGAIN
 
